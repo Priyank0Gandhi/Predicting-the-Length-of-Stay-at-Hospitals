@@ -34,8 +34,7 @@ forecast the length of hospital stay. Studies contributing to LOS have regularly
 appeared in the literature. One study was conducted to determine the factors affecting LOS in
 the public hospital in Iran. Demonstrated that an increase in age would lead to
 an increase in average LOS, Secondly, the average LOS of men is longer than women.
-Data mining algorithms such as Artificial Neural Network (ANN), Support Vector
-Machine (SVM), and Decision trees were used for this study.
+Data mining algorithms such as Decision trees were used for this study.
 
 II. Methods
 --
