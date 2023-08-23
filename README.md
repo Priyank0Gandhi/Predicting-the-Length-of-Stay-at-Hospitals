@@ -160,12 +160,8 @@ We also used Weka to see what attributes Weka suggests based on the
 Attribute Rankings. Classifier Feature Evaluator was used by using Attribute
 Ranking.
 
-![image](https://github.com/Priyank0Gandhi/Predicting-the-Length-of-Stay-at-Hospitals/assets/96395339/7fcd6ad3-1ae5-439f-9924-f5366e07990e)
-
-Fig.9 Attribute Selection in Weka 
-![image](https://github.com/Priyank0Gandhi/Predicting-the-Length-of-Stay-at-Hospitals/assets/96395339/41e1f940-61aa-4805-9f54-8536d18d9f86)
-
-Fig.10 Attribute Selection in Weka
+![image](https://github.com/Priyank0Gandhi/Predicting-the-Length-of-Stay-at-Hospitals/assets/96395339/7fcd6ad3-1ae5-439f-9924-f5366e07990e) Fig.9 Attribute Selection in Weka 
+![image](https://github.com/Priyank0Gandhi/Predicting-the-Length-of-Stay-at-Hospitals/assets/96395339/41e1f940-61aa-4805-9f54-8536d18d9f86) Fig.10 Attribute Selection in Weka
 
 d. Description of dependent and independent variables:
 
