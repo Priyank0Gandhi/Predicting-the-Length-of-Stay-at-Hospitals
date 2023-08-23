@@ -71,8 +71,8 @@ part of data cleaning process.
 The admission type variable had 4 types, but it seems that “Emergency and
 “Urgent” are one and the same, so the “Urgent” values were replaced with
 “Emergency” and the value counts were normalized.
-![image](https://github.com/Priyank0Gandhi/Predicting-the-Length-of-Stay-at-Hospitals/assets/96395339/b4ed735f-b37a-4949-8668-5e5049715155)
 
+![image](https://github.com/Priyank0Gandhi/Predicting-the-Length-of-Stay-at-Hospitals/assets/96395339/b4ed735f-b37a-4949-8668-5e5049715155)
 Fig. 1 Frequency of Admission Type 
 
 ![image](https://github.com/Priyank0Gandhi/Predicting-the-Length-of-Stay-at-Hospitals/assets/96395339/ca6aa301-bef8-4eac-8c90-fc0fc321c1d5)
